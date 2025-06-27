@@ -1,0 +1,216 @@
+body {
+    background-color:white;
+    padding: 0;
+    margin: 0;
+    justify-items: center;
+    align-items: center;
+    
+}
+/*h1 {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+
+.signup {
+    margin-bottom: -70px;
+text-align: center;
+}
+
+#all {
+    background-color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 350px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    width: 235px;
+    text-align: center;
+    padding-left: 60px;
+
+}
+
+.flex2 {
+    display: inline-flex;
+}
+
+.div2 {
+    margin-top: 8px;
+}*/
+#all {
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    min-width: 100px;
+    max-width: 350px;
+    border: 2px solid #F7F7F7 ;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+    font-size: 30px;
+}
+h2 {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -35px;
+    opacity: 0.5;
+
+}
+
+.flex1 {
+    margin-top: -50px;
+    
+
+}
+.flex2 {
+    display: inline-flex;
+}
+
+.div2 {
+    margin-top: 10px;
+    font-size: 12px;
+       font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.6;
+}
+
+.div1 {
+    opacity: 0.3;
+ 
+}
+
+.div3 {
+    opacity: 0.3;
+}
+
+.facelog {
+    background-color: dodgerblue;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: -15px;
+    height: 30px;
+    border-radius: 2px;
+}
+
+.logto {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 9px;
+    font-size: 12px;
+}
+
+.facedll {
+    background-color: white;
+    height: 13px;
+    margin-left: 167px;
+    margin-right: 167px;
+     position: relative;
+    top: 33px;
+    right: 75px;
+}
+
+.facebook {
+    justify-content: center;
+    align-items: center;
+}
+
+.facel {
+color: dodgerblue;
+padding-top: px;
+}
+
+input {
+    margin-top: 10px;
+width: 250px;
+    height: 25px;
+    padding-left: 10px;
+    border: 2px solid #F7F7F7 ;
+    border-radius: 5px;
+}
+
+.input11 {
+    margin-top: -30px;
+}
+
+.signup11 {
+        background-color: dodgerblue;
+    margin-left: 46px;
+    margin-right: 46px;
+    margin-top: -20px;
+    height: 30px;
+    border-radius: 2px;
+
+}
+
+.signup1 {
+    color: white;
+    padding-top: 8px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.by {
+ font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.4;
+}
+
+.term {
+ font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    opacity: 0.6;
+}
+
+.have {
+    background-color: white;
+    margin-top: 15px;
+    width: 350px;
+    min-width: 100px;
+    height: 40px;
+    border: 2px solid #F7F7F7 ;
+    text-align: center;
+}
+
+.acc {
+    padding-top: 2qpx;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*@media screen and (max-width: 350px) {
+
+    body {
+            background-color:white;
+    padding: 0;
+    margin: 0;
+    justify-items: center;
+    align-items: center;
+    
+    }
+
+    .flex2 {
+        display: inline-block;
+    }
+    input {
+        display: block;
+        width: 150px;
+        justify-items: center;
+    }
+
+
+    .facebook {
+        display: inline-block;
+    }
+
+      .facedll {
+        display: inline-block;
+    }
+}
