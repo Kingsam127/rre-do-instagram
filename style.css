@@ -1,17 +1,170 @@
 body {
-    background-color:white;
-    padding: 0;
+    background-color: white;
     margin: 0;
-    justify-items: center;
-    align-items: center;
-    
+    padding: 0;
+text-align: center;
+ 
 }
 
 #all {
-    text-align: center;
-    background-color: white;
-    margin: auto;
     margin-top: 20px;
+    background-color: white;
+   max-width: 350px;
+   min-width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+          border: #F7F7F7 2px;
+      border-style: solid;
+      border-radius: 2px;
+      z-index: 100%;
+    
+
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -35px;
+    opacity: 0.5;
+
+}
+.facelog {
+    background-color: dodgerblue;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: -15px;
+    height: 30px;
+    border-radius: 2px;
+}
+.logto {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 9px;
+    font-size: 12px;
+}
+
+.facedll {
+    background-color: white;
+    height: 13px;
+    margin-left: 167px;
+    margin-right: 167px;
+     position: relative;
+    top: 33px;
+    right: 75px;
+}
+
+.facebook {
+    justify-content: center;
+    align-items: center;
+}
+
+.facel {
+color: dodgerblue;
+padding-top: px;
+}
+.flex1 {
+    margin-top: -50px;
+    
+
+}
+.flex2 {
+    display: inline-flex;
+}
+
+.div2 {
+    margin-top: 10px;
+    font-size: 12px;
+       font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.6;
+}
+
+.div1 {
+    opacity: 0.3;
+ 
+}
+
+.div3 {
+    opacity: 0.3;
+}
+
+input {
+    padding-left: 10px;
+     outline: none; 
+     margin-top: 10px;
+    width: 259px;
+     height: 25px;
+     margin-top: -9px;
+     border: #F7F7F7 3px solid;
+     border-radius: 5px;
+     font-size: 10px;
+}
+
+.input11 {
+    margin-top: -10px;
+}
+
+.signup11 {
+        background-color: dodgerblue;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: -20px;
+    height: 30px;
+    border-radius: 2px;
+
+}
+
+.signup1 {
+    color: white;
+    padding-top: 8px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.by {
+ font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.4;
+}
+
+.term {
+ font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    opacity: 0.6;
+}
+
+.have {
+    margin-top: 15px;
+    background-color: white;
+    max-width: 350px;
+    min-width: 50px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+              border: #F7F7F7 2px;
+      border-style: solid;
+      border-radius: 2px;
+
+}
+.acc {
+    padding-top: 5px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*#all {
+    text-align: center;
+    background-color: white;    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
     min-width: 100px;
     max-width: 350px;
     border: 2px solid #F7F7F7 ;
@@ -132,18 +285,7 @@ width: 250px;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: -10px;
     opacity: 0.6;
-}
-
-.have {
-    background-color: white;
-    margin-top: 15px;
-    width: 350px;
-    min-width: 100px;
-    height: 40px;
-    border: 2px solid #F7F7F7 ;
-    text-align: center;
-}
-
+} 
 .acc {
     padding-top: 2qpx;
     font-size: 12px;
@@ -152,7 +294,7 @@ width: 250px;
 
 
 /*@media screen and (max-width: 350px) {
-
+/
     body {
             background-color:white;
     padding: 0;
